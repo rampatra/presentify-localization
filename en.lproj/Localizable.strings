@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Presentify
+
+  Created by Ram Patra on 31/05/2020.
+  Copyright © 2020 Ram Patra. All rights reserved.
+*/
+"Annotate Screen" = "Annotate Screen";
+"Stop Annotating Screen" = "Stop Annotating Screen";
+"Highlight Cursor" = "Highlight Cursor";
+"Stop Highlighting Cursor" = "Stop Highlighting Cursor";
+"Share" = "Share";
+"Help" = "Help";
+"Faq" = "Faq";
+"Support" = "Support";
+"Videos" = "Videos";
+"Write a review" = "Write a review";
+"More apps..." = "More apps...";
+"Preferences" = "Preferences";
+"Quit" = "Quit";
