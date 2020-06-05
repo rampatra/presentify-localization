@@ -3,7 +3,7 @@
 "0db-dL-QbR.title" = "Интерактивная доска";
 
 /* Class = "NSTabViewItem"; label = "Keyboard"; ObjectID = "1Kn-m6-tyf"; */
-"1Kn-m6-tyf.label" = "клавиатура";
+"1Kn-m6-tyf.label" = "Горячие клавиши";
 
 /* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP"; */
 "1UK-8n-QPP.title" = "Customize Toolbar…";
@@ -33,7 +33,7 @@
 "3Om-Ey-2VK.title" = "Use Default";
 
 /* Class = "NSTextFieldCell"; title = "Annotate Shortcuts"; ObjectID = "3Td-Nj-W3G"; */
-"3Td-Nj-W3G.title" = "Аннотировать ярлыки";
+"3Td-Nj-W3G.title" = "Горячие клавиши";
 
 /* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
 "3rS-ZA-NoH.title" = "Speech";
@@ -75,7 +75,7 @@
 "7AY-iv-NeW.title" = "Annotate Shortcuts";
 
 /* Class = "NSTextFieldCell"; title = "Cursor Highlight Opacity"; ObjectID = "7Kz-JO-8yF"; */
-"7Kz-JO-8yF.title" = "Непрозрачность курсора";
+"7Kz-JO-8yF.title" = "Прозрачность курсора";
 
 /* Class = "NSWindow"; title = "Window"; ObjectID = "7Pb-0L-IyM"; */
 "7Pb-0L-IyM.title" = "Window";
@@ -90,7 +90,7 @@
 "9yt-4B-nSM.title" = "Smart Copy/Paste";
 
 /* Class = "NSTabViewItem"; label = "Annotate"; ObjectID = "ARZ-be-616"; */
-"ARZ-be-616.label" = "Пометки";
+"ARZ-be-616.label" = "Заметки";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
 "AYu-sK-qS6.title" = "Main Menu";
@@ -123,7 +123,7 @@
 "Dv1-io-Yv7.title" = "Spelling and Grammar";
 
 /* Class = "NSButtonCell"; title = "Start app at login"; ObjectID = "E3x-Hr-rR0"; */
-"E3x-Hr-rR0.title" = "Запустить приложение при входе";
+"E3x-Hr-rR0.title" = "Запускать приложение при входе в систему";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
 "F2S-fz-NVQ.title" = "Help";
@@ -192,7 +192,7 @@
 "JM6-OU-IuG.title" = "C";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Move Annotate Controls"; ObjectID = "JvL-1K-hfp"; */
-"JvL-1K-hfp.ibShadowedToolTip" = "Элементы управления перемещением аннотации";
+"JvL-1K-hfp.ibShadowedToolTip" = "Переместить панель заметок";
 
 /* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
 "KaW-ft-85H.title" = "Revert to Saved";
@@ -216,7 +216,7 @@
 "Lbh-J2-qVU.title" = "\tLeft to Right";
 
 /* Class = "NSTextFieldCell"; title = "Annotate on a whiteboard instead of on a screen"; ObjectID = "Lcb-Fz-V1t"; */
-"Lcb-Fz-V1t.title" = "Аннотировать на доске вместо экрана";
+"Lcb-Fz-V1t.title" = "Заметки на доске вместо экрана";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "MTd-xF-bMG"; */
 "MTd-xF-bMG.title" = "C";
@@ -288,7 +288,7 @@
 "RB4-Sm-HuC.title" = "\tRight to Left";
 
 /* Class = "NSTextFieldCell"; title = "Set the weight of your annotations"; ObjectID = "RIq-pW-x2s"; */
-"RIq-pW-x2s.title" = "Установите вес ваших аннотаций";
+"RIq-pW-x2s.title" = "Установите толщину линий заметок";
 
 /* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "Rqc-34-cIF"; */
 "Rqc-34-cIF.title" = "Superscript";
@@ -300,10 +300,10 @@
 "S0p-oC-mLd.title" = "Jump to Selection";
 
 /* Class = "NSTextFieldCell"; title = "Highlight Border"; ObjectID = "SEP-DU-DyP"; */
-"SEP-DU-DyP.title" = "Выделить границу";
+"SEP-DU-DyP.title" = "Граница подсветки";
 
 /* Class = "NSTextFieldCell"; title = "All Annotate Shortcuts"; ObjectID = "SRy-I9-5Ye"; */
-"SRy-I9-5Ye.title" = "Все ярлыки розыгрыша";
+"SRy-I9-5Ye.title" = "Все горячие клавиши";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "Sye-Hc-SvQ"; */
 "Sye-Hc-SvQ.title" = "C";
@@ -339,7 +339,7 @@
 "W48-6f-4Dl.title" = "Edit";
 
 /* Class = "NSTextFieldCell"; title = "Annotate Shortcuts"; ObjectID = "WFz-RR-ONv"; */
-"WFz-RR-ONv.title" = "Аннотировать ярлыки";
+"WFz-RR-ONv.title" = "Горячие клавиши";
 
 /* Class = "NSMenuItem"; title = "Underline"; ObjectID = "WRG-CD-K1S"; */
 "WRG-CD-K1S.title" = "Underline";
@@ -351,7 +351,7 @@
 "WeT-3V-zwk.title" = "Paste and Match Style";
 
 /* Class = "NSButtonCell"; title = "Do not highlight when inactive"; ObjectID = "Whf-IY-H3B"; */
-"Whf-IY-H3B.title" = "Не выделяйте, когда неактивны";
+"Whf-IY-H3B.title" = "Не выделять неактивный курсор";
 
 /* Class = "NSTextFieldCell"; title = "Highlight Size"; ObjectID = "Xee-Rn-R6t"; */
 "Xee-Rn-R6t.title" = "Размер подсветки";
@@ -387,7 +387,7 @@
 "ZvO-Gk-QUH.title" = "Paragraph";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Circles"; ObjectID = "Zvj-L0-yUp"; */
-"Zvj-L0-yUp.ibShadowedToolTip" = "круги";
+"Zvj-L0-yUp.ibShadowedToolTip" = "Круги";
 
 /* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
 "aTl-1u-JFS.title" = "Print…";
@@ -417,7 +417,7 @@
 "bpp-P5-1m5.ibShadowedToolTip" = "Прямоугольники";
 
 /* Class = "NSTextFieldCell"; title = "Clear Annotate"; ObjectID = "bqF-aP-QS7"; */
-"bqF-aP-QS7.title" = "Очистить аннотировать";
+"bqF-aP-QS7.title" = "Очистить заметки";
 
 /* Class = "NSButton"; ibShadowedToolTip = "First Fav Color"; ObjectID = "bsu-h6-FQt"; */
 "bsu-h6-FQt.ibShadowedToolTip" = "Первый любимый цвет";
@@ -435,10 +435,10 @@
 "cDB-IK-hbR.title" = "Use None";
 
 /* Class = "NSTextFieldCell"; title = "Set your three colors for annotating your screen"; ObjectID = "cJW-PG-OkU"; */
-"cJW-PG-OkU.title" = "Установите три цвета для аннотирования экрана";
+"cJW-PG-OkU.title" = "Установите три цвета для заметок на экране";
 
 /* Class = "NSTextFieldCell"; title = "Start Presentify when your mac starts"; ObjectID = "cMw-Qt-4pz"; */
-"cMw-Qt-4pz.title" = "Начать Presentify, когда ваш Mac запускается";
+"cMw-Qt-4pz.title" = "Запускать Presentify, когда ваш Mac запускается";
 
 /* Class = "NSButtonCell"; title = "Round Rect"; ObjectID = "ccQ-Ef-G1j"; */
 "ccQ-Ef-G1j.title" = "Round Rect";
@@ -489,13 +489,13 @@
 "gB1-Ev-1tX.title" = "Presentify";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Stop Annotate Screen"; ObjectID = "gTe-EP-7qN"; */
-"gTe-EP-7qN.ibShadowedToolTip" = "Стоп аннотировать экран";
+"gTe-EP-7qN.ibShadowedToolTip" = "Выключить заметки";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
 "gVA-U4-sdL.title" = "Paste";
 
 /* Class = "NSTabViewItem"; label = "General"; ObjectID = "gYg-WN-QpH"; */
-"gYg-WN-QpH.label" = "генеральный";
+"gYg-WN-QpH.label" = "Общие";
 
 /* Class = "NSTextFieldCell"; title = "Redo"; ObjectID = "gpt-3a-wDh"; */
 "gpt-3a-wDh.title" = "Redo";
@@ -504,7 +504,7 @@
 "hE7-3D-Hls.ibShadowedToolTip" = "Стереть все";
 
 /* Class = "NSTextFieldCell"; title = "Set the color of your cursor highlight"; ObjectID = "hLA-z9-6tH"; */
-"hLA-z9-6tH.title" = "Установите цвет подсветки вашего курсора";
+"hLA-z9-6tH.title" = "Установить цвет подсветки курсора";
 
 /* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
 "hQb-2v-fYv.title" = "Smart Quotes";
@@ -564,10 +564,10 @@
 "mK6-2p-4JG.title" = "Check Grammar With Spelling";
 
 /* Class = "NSButtonCell"; title = "Highlight Cursor at app launch"; ObjectID = "mXB-PS-wv2"; */
-"mXB-PS-wv2.title" = "Выделите курсор при запуске приложения";
+"mXB-PS-wv2.title" = "Выделять курсор при запуске приложения";
 
 /* Class = "NSTextFieldCell"; title = "Clear Annotate"; ObjectID = "mhl-tn-io1"; */
-"mhl-tn-io1.title" = "Очистить аннотировать";
+"mhl-tn-io1.title" = "Очистить заметки";
 
 /* Class = "NSButtonCell"; title = "C"; ObjectID = "nC0-KN-v6M"; */
 "nC0-KN-v6M.title" = "C";
@@ -591,7 +591,7 @@
 "pDN-iI-Tr6.title" = "тумблер основной момент";
 
 /* Class = "NSTextFieldCell"; title = "Arrow"; ObjectID = "pPp-ly-WIw"; */
-"pPp-ly-WIw.title" = "Стрела";
+"pPp-ly-WIw.title" = "Стрелка";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
 "pa3-QI-u2k.title" = "Delete";
@@ -615,7 +615,7 @@
 "rbD-Rh-wIN.title" = "Check Spelling While Typing";
 
 /* Class = "NSButtonCell"; title = "Erase annotations automatically"; ObjectID = "rcq-3d-JuM"; */
-"rcq-3d-JuM.title" = "Стирать аннотации автоматически";
+"rcq-3d-JuM.title" = "Стирать заметки автоматически";
 
 /* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn"; */
 "rgM-f4-ycn.title" = "Smart Dashes";
@@ -654,13 +654,13 @@
 "vLm-3I-IUL.title" = "Show Ruler";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Arrows"; ObjectID = "vMM-vc-8Oy"; */
-"vMM-vc-8Oy.ibShadowedToolTip" = "Стрелы";
+"vMM-vc-8Oy.ibShadowedToolTip" = "Стрелки";
 
 /* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
 "vNY-rz-j42.title" = "Clear Menu";
 
 /* Class = "NSButtonCell"; title = "Highlight with a full circle instead of a ring"; ObjectID = "vbl-Bg-qj4"; */
-"vbl-Bg-qj4.title" = "Выделите полный круг вместо кольца";
+"vbl-Bg-qj4.title" = "Выделять курсор кругом вместо кольца";
 
 /* Class = "NSTextFieldCell"; title = "1st Fav Color"; ObjectID = "vli-ph-UGB"; */
 "vli-ph-UGB.title" = "1-й любимый цвет";
@@ -672,7 +672,7 @@
 "w0m-vy-SC9.title" = "Ligatures";
 
 /* Class = "NSTextFieldCell"; title = "Free Hand"; ObjectID = "w8F-cR-EKY"; */
-"w8F-cR-EKY.title" = "Свободная рука";
+"w8F-cR-EKY.title" = "Кривые";
 
 /* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "wb2-vD-lq4"; */
 "wb2-vD-lq4.title" = "Align Right";
@@ -690,7 +690,7 @@
 "xrE-MZ-jX0.title" = "Speech";
 
 /* Class = "NSWindow"; title = "Preferences"; ObjectID = "yMR-WQ-lTM"; */
-"yMR-WQ-lTM.title" = "предпочтения";
+"yMR-WQ-lTM.title" = "Настройки";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "ypj-kv-Bcb"; */
 "ypj-kv-Bcb.title" = "None";
@@ -699,16 +699,16 @@
 "z6F-FW-3nz.title" = "Show Substitutions";
 
 /* Class = "NSTextFieldCell"; title = "Line Weight"; ObjectID = "zxt-da-umM"; */
-"zxt-da-umM.title" = "Вес линии";
+"zxt-da-umM.title" = "Толщина линии";
 
 /* Class = "NSTextFieldCell"; title = "Decrease Line Weight"; ObjectID = "rij-ew-yIo"; */
-"rij-ew-yIo.title" = "Уменьшить вес линии";
+"rij-ew-yIo.title" = "Уменьшить толщину линии";
 
 /* Class = "NSTextFieldCell"; title = "Increase Line Weight"; ObjectID = "Xns-of-diF"; */
-"Xns-of-diF.title" = "Увеличить вес линии";
+"Xns-of-diF.title" = "Увеличить толщину линии";
 
 /* Class = "NSTextFieldCell"; title = "Draw with Touch"; ObjectID = "6fu-rC-JLd"; */
-"6fu-rC-JLd.title" = "Рисовать на ощупь";
+"6fu-rC-JLd.title" = "Рисовать касаниями";
 
 /* Class = "NSTextFieldCell"; title = "Highlighter"; ObjectID = "DFc-qQ-JDD"; */
 "DFc-qQ-JDD.title" = "Highlighter";
