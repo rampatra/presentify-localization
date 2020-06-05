@@ -709,3 +709,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Draw with Touch"; ObjectID = "6fu-rC-JLd"; */
 "6fu-rC-JLd.title" = "Рисовать на ощупь";
+
+/* Class = "NSTextFieldCell"; title = "Highlighter"; ObjectID = "DFc-qQ-JDD"; */
+"DFc-qQ-JDD.title" = "Highlighter";
