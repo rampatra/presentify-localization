@@ -712,3 +712,6 @@
 
 /* Class = "NSTextFieldCell"; title = "Highlighter"; ObjectID = "DFc-qQ-JDD"; */
 "DFc-qQ-JDD.title" = "Highlighter";
+
+/* Class = "NSTextFieldCell"; title = "Presentify has started"; ObjectID = "8aG-jw-4K0"; */
+"8aG-jw-4K0.title" = "Presentify началось";
