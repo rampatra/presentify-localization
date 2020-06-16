@@ -6,7 +6,7 @@ If you want this app in a language of your choice, please feel free to contribut
 ## How to contribute?
 1. Fork this project.
 2. Make a directory for the language of your choice. For example, if you want to add translations for `Hindi` then make a folder `hi.lproj`.
-3. Copy `Main.strings` and `Localizable.strings` files from `ru.lproj` folder to the newly created folder (in step 1).
+3. Copy `Main.strings` and `Localizable.strings` files from `ru.lproj` folder to the newly created folder (in step 2).
 4. Replace the texts that are in Russian to the language you're converting to.
 5. Make a Merge Request to `master` branch.
 
