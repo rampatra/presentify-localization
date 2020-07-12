@@ -715,3 +715,15 @@
 
 /* Class = "NSTextFieldCell"; title = "Presentify has started"; ObjectID = "8aG-jw-4K0"; */
 "8aG-jw-4K0.title" = "Presentify началось";
+
+/* Class = "NSTextFieldCell"; title = "Increase/Decrease Font Size"; ObjectID = "EUT-a5-WgR"; */
+"EUT-a5-WgR.title" = "Увеличить/уменьшить размер шрифта";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; */
+"Fal-I4-PZk.title" = "Текст";
+
+/* Class = "NSMenu"; title = "Text"; ObjectID = "d9c-me-L2H"; */
+"d9c-me-L2H.title" = "Текст";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Text"; ObjectID = "jfn-zk-4fG"; */
+"jfn-zk-4fG.ibShadowedToolTip" = "Текст";
