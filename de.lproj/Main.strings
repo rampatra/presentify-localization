@@ -18,7 +18,7 @@
 "1tx-W0-xDw.title" = "Tiefer";
 
 /* Class = "NSTextFieldCell"; title = "First Fav Color"; ObjectID = "2B6-08-mzj"; */
-"2B6-08-mzj.title" = "Erste favorisierte Farbe";
+"2B6-08-mzj.title" = "Erste favorisierte Farve";
 
 /* Class = "NSMenuItem"; title = "Raise"; ObjectID = "2h7-ER-AoG"; */
 "2h7-ER-AoG.title" = "Anheben";
@@ -60,7 +60,7 @@
 "5kV-Vb-QxS.title" = "Über Presentify";
 
 /* Class = "NSTextFieldCell"; title = "Second Fav Color"; ObjectID = "61k-qN-2Q6"; */
-"61k-qN-2Q6.title" = "Zweite favorisierte Farbe";
+"61k-qN-2Q6.title" = "Zweite favorisierte Farve";
 
 /* Class = "NSButtonCell"; title = "A"; ObjectID = "6aG-7Y-TPn"; */
 "6aG-7Y-TPn.title" = "Ein";
@@ -246,7 +246,7 @@
 "OfP-VF-agR.title" = "C";
 
 /* Class = "NSTextFieldCell"; title = "Third Fav Color"; ObjectID = "Old-Z7-kE1"; */
-"Old-Z7-kE1.title" = "Dritte favorisierte Farbe";
+"Old-Z7-kE1.title" = "Dritte favorisierte Farve";
 
 /* Class = "NSMenuItem"; title = "Hide Presentify"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Presentify ausblenden";
