@@ -402,7 +402,7 @@
 "agt-UL-0e3.title" = "Use Default";
 
 /* Class = "NSTextFieldCell"; title = "Toggle Annotate Screen"; ObjectID = "bWV-xH-GwB"; */
-"bWV-xH-GwB.title" = "тумблер Рисовать";
+"bWV-xH-GwB.title" = "Включить/выключить заметки";
 
 /* Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "bgn-CT-cEk"; */
 "bgn-CT-cEk.title" = "Show Colors";
@@ -588,7 +588,7 @@
 "ogc-rX-tC1.title" = "Loosen";
 
 /* Class = "NSTextFieldCell"; title = "Toggle Highlight Cursor"; ObjectID = "pDN-iI-Tr6"; */
-"pDN-iI-Tr6.title" = "тумблер основной момент";
+"pDN-iI-Tr6.title" = "Включить/выключить курсора";
 
 /* Class = "NSTextFieldCell"; title = "Arrow"; ObjectID = "pPp-ly-WIw"; */
 "pPp-ly-WIw.title" = "Стрелка";
@@ -717,7 +717,7 @@
 "8aG-jw-4K0.title" = "Presentify началось";
 
 /* Class = "NSTextFieldCell"; title = "Increase/Decrease Font Size"; ObjectID = "EUT-a5-WgR"; */
-"EUT-a5-WgR.title" = "Увеличить/уменьшить размер шрифта";
+"EUT-a5-WgR.title" = "Увеличить / уменьшить размер шрифта";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; */
 "Fal-I4-PZk.title" = "Текст";
