@@ -614,8 +614,8 @@
 /* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; */
 "rbD-Rh-wIN.title" = "Rechtschreibung beim Tippen prüfen";
 
-/* Class = "NSButtonCell"; title = "Erase annotations automatically"; ObjectID = "rcq-3d-JuM"; */
-"rcq-3d-JuM.title" = "Kommentare automatisch löschen";
+/* Class = "NSTextFieldCell"; title = "Erase annotations automatically"; ObjectID = "abL-Xf-8DO"; */
+"abL-Xf-8DO.title" = "Kommentare automatisch löschen";
 
 /* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn"; */
 "rgM-f4-ycn.title" = "Intelligente Striche";
