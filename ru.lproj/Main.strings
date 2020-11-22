@@ -727,3 +727,6 @@
 
 /* Class = "NSButton"; ibShadowedToolTip = "Text"; ObjectID = "jfn-zk-4fG"; */
 "jfn-zk-4fG.ibShadowedToolTip" = "Текст";
+
+/* Class = "NSButtonCell"; title = "Show tooltip when app starts"; ObjectID = "T4y-zL-U9D"; */
+"T4y-zL-U9D.title" = "Показывать всплывающую подсказку при запуске";
