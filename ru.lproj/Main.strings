@@ -730,3 +730,6 @@
 
 /* Class = "NSButtonCell"; title = "Show tooltip when app starts"; ObjectID = "T4y-zL-U9D"; */
 "T4y-zL-U9D.title" = "Показывать всплывающую подсказку при запуске";
+
+/* Class = "NSTextFieldCell"; title = "Toggle Annotate Controls"; ObjectID = "EqO-Pq-BXW"; */
+"EqO-Pq-BXW.title" = "Включить/выключить контроль";
