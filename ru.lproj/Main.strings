@@ -733,3 +733,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Toggle Annotate Controls"; ObjectID = "EqO-Pq-BXW"; */
 "EqO-Pq-BXW.title" = "Включить/выключить контроль";
+
+/* Class = "NSButtonCell"; title = "Save Annotations across sessions"; ObjectID = "v3W-mZ-ZHm"; */
+"v3W-mZ-ZHm.title" = "Сохраняйте аннотации между сеансами";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "Vv0-wp-wjs"; */
+"Vv0-wp-wjs.title" = "Текст";
