@@ -18,7 +18,7 @@
 "1tx-W0-xDw.title" = "Tiefer";
 
 /* Class = "NSTextFieldCell"; title = "First Fav Color"; ObjectID = "2B6-08-mzj"; */
-"2B6-08-mzj.title" = "Erste favorisierte Farve";
+"2B6-08-mzj.title" = "Erste favorisierte Farbe";
 
 /* Class = "NSMenuItem"; title = "Raise"; ObjectID = "2h7-ER-AoG"; */
 "2h7-ER-AoG.title" = "Anheben";
@@ -60,7 +60,7 @@
 "5kV-Vb-QxS.title" = "Über Presentify";
 
 /* Class = "NSTextFieldCell"; title = "Second Fav Color"; ObjectID = "61k-qN-2Q6"; */
-"61k-qN-2Q6.title" = "Zweite favorisierte Farve";
+"61k-qN-2Q6.title" = "Zweite favorisierte Farbe";
 
 /* Class = "NSButtonCell"; title = "A"; ObjectID = "6aG-7Y-TPn"; */
 "6aG-7Y-TPn.title" = "Ein";
@@ -246,7 +246,7 @@
 "OfP-VF-agR.title" = "C";
 
 /* Class = "NSTextFieldCell"; title = "Third Fav Color"; ObjectID = "Old-Z7-kE1"; */
-"Old-Z7-kE1.title" = "Dritte favorisierte Farve";
+"Old-Z7-kE1.title" = "Dritte favorisierte Farbe";
 
 /* Class = "NSMenuItem"; title = "Hide Presentify"; ObjectID = "Olw-nP-bQN"; */
 "Olw-nP-bQN.title" = "Presentify ausblenden";
@@ -588,7 +588,7 @@
 "ogc-rX-tC1.title" = "Lockern";
 
 /* Class = "NSTextFieldCell"; title = "Toggle Highlight Cursor"; ObjectID = "pDN-iI-Tr6"; */
-"pDN-iI-Tr6.title" = "Markierungsfarbe umschalten";
+"pDN-iI-Tr6.title" = "Mauszeiger an/aus";
 
 /* Class = "NSTextFieldCell"; title = "Arrow"; ObjectID = "pPp-ly-WIw"; */
 "pPp-ly-WIw.title" = "Pfeil";
@@ -663,7 +663,7 @@
 "vbl-Bg-qj4.title" = "Mit einem vollen Kreis anstatt einem Ring markieren";
 
 /* Class = "NSTextFieldCell"; title = "1st Fav Color"; ObjectID = "vli-ph-UGB"; */
-"vli-ph-UGB.title" = "Erste favorisierte Farve";
+"vli-ph-UGB.title" = "Erste favorisierte Farbe";
 
 /* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI"; */
 "vmV-6d-7jI.title" = "Großgeschrieben";
@@ -733,3 +733,9 @@
 
 /* Class = "NSTextFieldCell"; title = "Toggle Annotate Controls"; ObjectID = "EqO-Pq-BXW"; */
 "EqO-Pq-BXW.title" = "Kommentaranzeige Kontrollen";
+
+/* Class = "NSButtonCell"; title = "Save Annotations across sessions"; ObjectID = "v3W-mZ-ZHm"; */
+"v3W-mZ-ZHm.title" = "Anmerkungen sitzungsübergreifend speichern";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "Vv0-wp-wjs"; */
+"Vv0-wp-wjs.title" = "Text";
